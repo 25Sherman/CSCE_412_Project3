@@ -15,7 +15,8 @@ This project is a C++ simulation of a network load balancer. It manages a dynami
 ## How to Run
 1. **Compile**: Run the command `make` in your terminal.
 2. **Execute**: Run `./loadbalancer.exe`.
-3. **Configure**: You can change the number of servers or cycles by editing `configs.txt`.
+3. **Output**: Output can be seen in `log.txt`.
+4. **Configure**: You can change the number of servers or cycles by editing `configs.txt`.
 
 ## Understanding the Output
 * **Real-time Status**: Every 1,000 cycles, the terminal displays the current queue size and the number of active servers.
