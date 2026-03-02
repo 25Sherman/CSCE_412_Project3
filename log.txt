@@ -1,0 +1,12 @@
+=== Load Balancer Simulation Summary ===
+Initial Servers Configured: 10
+Total Clock Cycles Run: 10000
+Task Time Range: 5 to 50 cycles
+----------------------------------------
+Starting Queue Size: 1000
+Ending Queue Size: 185
+Total Requests Processed: 4813
+Total Requests Blocked (Firewall): 0
+Minimum Servers Used: 10
+Maximum Servers Used: 13
+========================================
